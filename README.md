@@ -76,4 +76,5 @@
 		TestCase:	用例名称
 		Message:		比对不一致信息
 		Failure field Value:其它错误信息
-		
+
+参考： http://www.cnblogs.com/wade-xu/p/4229805.html 
